@@ -43,6 +43,7 @@
   <img src="./images/main-os.png" alt="My Image">
 
   ## Clinet OS vs Server OS
+
   ### Clinet OS
   Personal computers iwth GUI and I/OS devices <img src="./images/client.png" alt="My Image">
   ### Server OS
