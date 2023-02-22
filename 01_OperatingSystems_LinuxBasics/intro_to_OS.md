@@ -45,7 +45,8 @@
   ## Clinet OS vs Server OS
 
   ### Clinet OS
-  Personal computers iwth GUI and I/OS devices <img src="./images/client.png" alt="My Image">
+  Personal computers iwth GUI and I/OS devices</br>
+   <img src="./images/client.png" alt="My Image">
   ### Server OS
   Linux and Windows have server distributions, but Linux most widely used, more light-wieght. And there is no GUI or other user aplications. </br>
   <img src="./images/server.png" alt="My Image">
